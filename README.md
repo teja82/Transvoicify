@@ -43,3 +43,6 @@
 - Assisting visually impaired users 🦯  
 - Quick text-to-speech for accessibility 🎧  
 - Multilingual communication 🌎  
+
+## 📜 **License**
+This project is licensed under the MIT License.
